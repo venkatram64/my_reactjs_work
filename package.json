@@ -12,7 +12,7 @@
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "Ben Fhala <ben@02geek.com>",
+  "author": "Venkatram",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
